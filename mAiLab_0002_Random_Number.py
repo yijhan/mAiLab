@@ -29,10 +29,4 @@ for i in N:
 #Advanced
 # 4. Self-made Random Number Generator
      
-     
-
-
-    
-
-
     
