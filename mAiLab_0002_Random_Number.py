@@ -4,7 +4,6 @@
 import numpy as np
 import time
 
-
 # Basic
 # 1. Generate 5 random numbers and print
 print('Generating 5 random numbers=', np.random.random(5))
